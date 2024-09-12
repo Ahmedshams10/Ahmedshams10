@@ -1,7 +1,4 @@
 ## Hi there 👋
-# Heading 1 
-## heading  2
-## Heading 3
 <!--
 **Ahmedshams10/Ahmedshams10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
